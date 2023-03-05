@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/arakilian0/nextmin.git"
   },
-  "keywords": ["next.js", "template", "dashboard"],
+  "keywords": [
+    "next.js",
+    "template",
+    "dashboard"
+  ],
   "author": "Michael Arakilian",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arakilian0/nextmin/issues"
   },
-  "homepage": "https://github.com/arakilian0/nextmin#readme"
+  "homepage": "https://github.com/arakilian0/nextmin#readme",
+  "dependencies": {
+    "next": "^13.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
