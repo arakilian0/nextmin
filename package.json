@@ -1,0 +1,20 @@
+{
+  "name": "nextmin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Next.js personal-site template and administration dashboard.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arakilian0/nextmin.git"
+  },
+  "keywords": ["next.js", "template", "dashboard"],
+  "author": "Michael Arakilian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arakilian0/nextmin/issues"
+  },
+  "homepage": "https://github.com/arakilian0/nextmin#readme"
+}
