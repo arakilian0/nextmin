@@ -1,0 +1,19 @@
+/* CSS RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: inherit;
+    font-weight: inherit;
+    font-family: inherit;
+    text-decoration: none;
+    color: inherit;
+    background: inherit;
+    list-style-type: none;
+}
+
+/* THEME CONFIGURATION */
+:root {
+    --header-background: gray;
+    --header-text: white;
+}
